@@ -18,6 +18,9 @@ This project is still a work in progress. If you like, you can download the STL 
 | Joystick / Joystick Connector | Print 1 |
 | ABXY Buttons / ABXY Button | Print 4 |
 | ABXY Buttons / ABXY Mount | Print 1 |
+| ABXY Buttons / Connector Left | Print 1 |
+| ABXY Buttons / Connector Right | Print 1 |
+| ABXY Buttons / Connector Up and Down | Print 2, mirror one of them |
 | Shoulder Buttons / L Button | Print 1 |
 | Shoulder Buttons / R Button | Print 1 |
 | Shoulder Buttons / L+R Mount | Print 2, mirror one of them |
