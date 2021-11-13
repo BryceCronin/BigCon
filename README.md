@@ -35,4 +35,11 @@ This project is still a work in progress. If you like, you can download the STL 
 | 4 x extension springs (5/16”x1-1/8") | I used the [Spring Assortment Kit from JayCar Australia](https://www.jaycar.com.au/200-piece-spring-assortment/p/HP0638) |
 | 4 x M3 10mm risers | I used the [Tapped Metal Risers from JayCar Australia](https://www.jaycar.com.au/m3-x-10mm-tapped-metal-spacers-pk8/p/HP0900?pos=10&queryId=ec55c7631aecdba57f3a26d289d0433e&sort=relevance) |
 # Assembly Instructions
-Assembly instructions are coming soon. Assembly is intuitive and you should be able to figure it out in the meantime. Most components can only go in one place.
+Detailed assembly instructions are coming soon. Fortunately, the assembly process is intuitive and you should be able to figure it out - most components can only go in one place.
+1. Connect the Middle Body and Bottom Body pieces together.
+2. Connect the Joystick and Joystick Mount pieces together, then sandwich it between the Top Body and Joystick Mount pieces and screw into place.
+3. Tension the Joystick using 4 extension sprigns.
+4. Insert the 4 buttons into their holes on the Top Body piece and add 4 compression springs into the corresponding holes on the buttons and on the ABXY Mount piece and screw into place.
+5. Attach the 4 ABXY Connector pieces to the buttons, manual drilling is required (this will be fixed in the next update)
+6. The L and R buttons can be attached using the same method as step 4.
+7. Attach the lid onto on body. You're done!
