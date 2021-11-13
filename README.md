@@ -1,10 +1,12 @@
 # Big-Con - Accessible Joy-Con Adapter
 
-This project was originally created for the Liquid Hacks 2.0 Hackathon.
+This project was originally created for the Liquid Hacks 2.0 Hackathon, more info can be found there.
+
 Hackathon: https://liquidhacks2021.devpost.com/
+
 Big-Con Project: https://devpost.com/software/big-con
 # Work in Progress
-This project is still a work in progress. If you like, you can download the STL files below to construct a Big-Con yourself. However, some files are incomplete or have errors. This message will be removed when the files have been updated to remove these issues.
+This project is still a work in progress. If you like, you can download the STL files below to construct a Big-Con yourself now. However, a lot of changes will be made after the conclusion and judging of the hackathon, so you may want to hold off for a few weeks :)
 
 # Files & 3D-Printing Info
 
